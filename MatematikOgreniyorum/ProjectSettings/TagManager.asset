@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - car
+  - answerBallon
+  - ballonSpawnPoint
+  - scripts
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - background
+  - ballon
+  - inBallons
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Arkaplan
+    uniqueID: 3817316387
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Balonlar
+    uniqueID: 2738125991
+    locked: 0
+  - name: "men\xFCler"
+    uniqueID: 3374774425
+    locked: 0
